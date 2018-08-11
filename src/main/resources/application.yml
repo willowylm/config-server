@@ -8,4 +8,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/grad-step-up/config.git
+          uri: https://github.com/willowylm/config.git
